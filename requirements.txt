@@ -1,0 +1,8 @@
+ultralytics==8.4.171
+opencv-python==5.0.0.93
+insightface
+numpy==2.4.6
+torch==2.14.1
+torchvision==0.29.1
+lap>=0.5.12
+onnxruntime

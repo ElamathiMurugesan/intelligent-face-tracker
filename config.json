@@ -1,0 +1,10 @@
+{
+  "video_source": "sample.mp4",
+  "detection_skip_frames": 5,
+  "face_match_threshold": 0.5,
+  "exit_timeout_seconds": 2,
+  "database_path": "data/visitors.db",
+  "entry_log_directory": "logs/entries",
+  "exit_log_directory": "logs/exits",
+  "event_log": "logs/events.log"
+}
