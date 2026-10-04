@@ -1050,7 +1050,7 @@ The development run completed all 240 frames without an application crash.
 Demo video:
 
 ```text
-[Add Loom / YouTube link here]
+https://youtu.be/zhyBbHIf3Co
 ```
 
 The demo should show:
